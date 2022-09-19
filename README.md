@@ -9,5 +9,5 @@
   <img align="center" alt="HikaruKawano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HikaruKawano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="HikaruKawano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="HikaruKawano-CSS" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="HikaruKawano-Java" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
 </div>
