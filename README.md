@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/HikaruKawano">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HikaruKawano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikaruKawano&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikaruKawano&layout=compact&langs_count=1&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HikaruKawano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
